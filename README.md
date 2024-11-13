@@ -1,4 +1,4 @@
-## About Me 
+# About Me 
 *I am currently a 2nd year student in AMA Computer College Caloocan and still learning how to code and use github effectively*
 
 - 🔭 I’m currently working on learning more about codes and github
